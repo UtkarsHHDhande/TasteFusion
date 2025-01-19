@@ -26,8 +26,15 @@ A modern food delivery web application built with React and Redux.
 
 ## Screenshots
 
-[Add your screenshots here]
+
+![Home Page](public/Screenshot%202025-01-19%20163025.png)
+
+![Menu Page](public/Screenshot%202025-01-19%20163114.png)
+
+![Cart](public/Screenshot%202025-01-19%20163053.png)
+
+
 
 ## Live Demo
 
-[Add your deployed site link here]
+https://taste-fusion.vercel.app/
